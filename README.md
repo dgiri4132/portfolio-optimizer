@@ -25,4 +25,5 @@ Make sure you have python 3 installed. Then copy and paste this repo and run:
 git clone https://github.com/dgiri4132/portfolio-optimizer.git
 cd portfolio-optimizer
 pip install -r requirements.txt
-
+# Options 1 and 2
+- You can run main.ipynb for initial development interactive use and main_clean.py for cleaner and more easily editable code
