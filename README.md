@@ -3,6 +3,7 @@ This project is my first project and it is a python based tool which optimizes y
 
 # Contents
 - There is the main file 'main.ipynb' : which is a Jupyter notebook with all code and results.
+- There is the main file 'main_clean.py' which is a more cleaner and better optimized version of 'main.ipynb'.
 - And there is  'requirements.txt': which has all the libraires that I needed to do the project.
 -'LICENSE' for open-source use.
 
@@ -24,4 +25,10 @@ Make sure you have python 3 installed. Then copy and paste this repo and run:
 git clone https://github.com/dgiri4132/portfolio-optimizer.git
 cd portfolio-optimizer
 pip install -r requirements.txt
+
+option 1(Run the notebook for interactive use and learning)
 jupyter notebook main.ipynb
+
+Or run the Python script, option 2 (Run this for cleaner, command line usage):
+```bash
+python main_clean.py
