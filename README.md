@@ -26,9 +26,3 @@ git clone https://github.com/dgiri4132/portfolio-optimizer.git
 cd portfolio-optimizer
 pip install -r requirements.txt
 
-option 1(Run the notebook for interactive use and learning)
-jupyter notebook main.ipynb
-
-Or run the Python script, option 2 (Run this for cleaner, command line usage):
-```bash
-python main_clean.py
