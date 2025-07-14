@@ -4,5 +4,4 @@ yfinance
 matplotlib
 seaborn 
 scipy
-scikit-learn
 datetime
